@@ -220,7 +220,7 @@
             <a href="#linux">
                 <img src="https://cdn.simpleicons.org/rust/color" width="36" height="36" alt="Rust" />
             </a>
-            <br>Go
+            <br>Rust
         </td>
     </tr>
 </table>
