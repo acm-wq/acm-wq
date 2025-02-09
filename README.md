@@ -218,9 +218,9 @@
         </td>
         <td align="center" width="110" height="90">
             <a href="#linux">
-                <img src="https://cdn.simpleicons.org/rust/color" width="36" height="36" alt="Rust" />
+                <img src="https://cdn.simpleicons.org/lua/color" width="36" height="36" alt="Rust" />
             </a>
-            <br>Rust
+            <br>Lua
         </td>
     </tr>
 </table>
