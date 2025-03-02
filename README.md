@@ -25,7 +25,7 @@
 ### When I'm not coding, I am:
 
 - I read books about programming, psychology, medicine, cosmology, sci-fi, and fantasy. 📚
-- I'm playing chess! [My account]([https://www.chess.com](https://www.chess.com/member/acm-wq)) ♟️
+- I'm playing chess! [My account](https://www.chess.com/member/acm-wq) ♟️
 - I draw pixel art and create my own games. 🖼️
 - Embracing nature, finding clarity and inspiration in the silence of Siberia. 🌲❄️
 
