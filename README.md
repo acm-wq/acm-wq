@@ -13,13 +13,14 @@
 - 💎 **Ruby/Rails**: The heart of my craft. 🦋
 - 🐹 **Golang**: Fast and easy development for scalable services.
 - ⚡ **JavaScript**: For dynamic and interactive interfaces.
+- 🌚 **Lua**: Lightweight and powerful scripting.
 - 🐘 **PostgreSQL**: A powerful and reliable data custodian.
 - 🔥 **Redis**: Instant access to data.
 - 📦 **RabbitMQ/Sidekiq**: For background processes.
 - 🎨 **TailwindCSS/Bootstrap**: Flexibility in design.
 - 🔌 **HTML/CSS/SASS**: The art that envelops the site.
 - 🔧 **Linux/Git/Gitlab**: My tools.
-- 🔬 **Lua/Golang**: What I'm learning right now.
+- 🔬 **Golang**: What I'm learning right now.
 
 --- 
 ### When I'm not coding, I am:
