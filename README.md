@@ -20,7 +20,7 @@
 - 🎨 **TailwindCSS/Bootstrap**: Flexibility in design.
 - 🔌 **HTML/CSS/SASS**: The art that envelops the site.
 - 🔧 **Linux/Git/Gitlab**: My tools.
-- 🔬 **Golang**: What I'm learning right now.
+- 🔬 **Next/Golang**: What I'm learning right now.
 
 --- 
 ### When I'm not coding, I am:
