@@ -32,14 +32,4 @@
 - Embracing nature, finding clarity and inspiration in the silence of Siberia. 🌲❄️
 
 ---
-### Personal Information
-
-- 🕯️ **Age**: 21  
-- 🗺️ **Location**: Siberia  
-- 🧠 **Personality type**: [INTJ](https://www.16personalities.com/intj-personality)
-- ⏰ **When I wake up**: 9:30 AM 
-- 🌙 **When I go to sleep**: 1:30 AM  
-
-
----
 > "The code we write today will echo in the systems of tomorrow."
