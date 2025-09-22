@@ -20,13 +20,13 @@
 - 🎨 **TailwindCSS/Bootstrap**: Flexibility in design.
 - 🔌 **HTML/CSS/SASS**: The art that envelops the site.
 - 🔧 **Linux/Git/Gitlab**: My tools.
-- 🔬 **Next/Golang**: What I'm learning right now.
+- 🔬 **Golang**: What I'm learning right now.
 
 --- 
 ### When I'm not coding, I am:
 
 - I read books about programming, psychology, medicine, cosmology, sci-fi, and fantasy. 📚
-- I'm learning new languages. 🇬🇧🇯🇵
+- I'm learning new languages. (🇬🇧A2)(🇯🇵A0)
 - I'm playing chess! [My account](https://www.chess.com/member/acm-wq) ♟️
 - I draw pixel art and create my own games. 🖼️
 - Embracing nature, finding clarity and inspiration in the silence of Siberia. 🌲❄️
